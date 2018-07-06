@@ -12,6 +12,9 @@ an output will be shown as:-
  
  
  Here the http://127.0.0.1:5000/ is used for get,post and put method for testing api 
+ 
  ie in Isomnia
+ 
  get http://127.0.0.1:5000/user/1
+ 
  Can be Used
